@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm N J K P Sai Charan! 👋
 
 I'm an enthusiastic **Full-Stack Developer** passionate about building scalable web applications and solving complex problems. I love the process of turning an idea into a functional, user-centric product.
