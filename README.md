@@ -31,8 +31,9 @@ I'm an enthusiastic **Full-Stack Developer** passionate about building scalable 
 
 ## 📊 GitHub Stats
 
-![Sai Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NJKPSaiCharan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NJKPSaiCharan&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saicharan910&show_icons=true&theme=radical&border_radius=10)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saicharan910&layout=compact&theme=radical&border_radius=10)
 
 ---
 
