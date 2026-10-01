@@ -30,15 +30,7 @@ I'm an enthusiastic **Full-Stack Developer** passionate about building scalable 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JSON](https://img.shields.io/badge/APIs-Fetch%20%26%20REST-green?style=for-the-badge&logo=json)
 
----
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saicharan910&show_icons=true&theme=radical&border_radius=10)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saicharan910&layout=compact&theme=radical&border_radius=10)
-
----
 
 ## 📬 Connect with Me
 
