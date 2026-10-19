@@ -34,7 +34,7 @@ I'm an enthusiastic **Full-Stack Developer** passionate about building scalable 
 
 ## 📬 Connect with Me
 
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/n-j-k-p-sai-charan-275172394/]
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/n-j-k-p-sai-charan]
 - 📧 **Email**: [thecharan122004gmail.com]
 
 
